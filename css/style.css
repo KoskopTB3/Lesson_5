@@ -1,0 +1,67 @@
+/* &display=swap */
+
+@import "null.css";
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+
+/* ================================================================ */
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+/* ================================================================ */
+
+body {
+	font-family: "lato", sans-serif;
+	color: rgba(30, 33, 44, 1);
+	max-width: 810px;
+	margin: auto;
+}
+
+h1 {
+	font-size: 46px;
+	font-weight: 900;
+	line-height: 1.3;
+	margin: 0 0 92px;
+}
+
+.img-top {
+	margin: 0 0 60px;
+}
+
+.text-1 {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.5;
+	margin: 0 0 24px;
+}
+
+.text-2 {
+	color: rgba(66, 69, 81, 1);
+	line-height: 1.6;
+	margin: 0 0 48px;
+}
+
+.text-3 {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.5;
+	margin: 0 0 48px 58px;
+}
+
+.text-4 {
+	color: rgba(66, 69, 81, 1);
+	line-height: 1.6;
+	margin: 0 0 24px;
+}
+
+.list {
+	color: rgba(66, 69, 81, 1);
+	line-height: 1.6;
+	margin: 0 0 24px 32px;
+}
+
+.text-5 {
+	color: rgba(66, 69, 81, 1);
+	line-height: 1.6;
+}
